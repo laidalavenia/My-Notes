@@ -1,6 +1,6 @@
 <h2 align="center">MY NOTES</h2>
 
-## Project Submission Fundamental Front End Web Development
+## Project Submission Fundamental Aplikasi Web dengan React
 
 Aplikasi ini berfungsi untuk mencari minuman yang diinginkan oleh user. Dalam project ini memanfaatkan API dengan menggunakan konsep AJAX dalam menampilkan data yang dinamis pada aplikasi yang dibuat
 
